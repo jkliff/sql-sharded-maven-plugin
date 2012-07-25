@@ -17,9 +17,10 @@
   <prerequisites>
     <maven>${mavenVersion}</maven>
   </prerequisites>
+
   <issueManagement>
-    <system>JIRA</system>
-    <url>http://jira.codehaus.org/browse/MSQL</url>
+    <system>Github</system>
+    <url>https://github.com/jkliff/sql-sharded-maven-plugin/issues</url>
   </issueManagement>
 
   <scm>
